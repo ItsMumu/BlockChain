@@ -6,7 +6,7 @@ import fr.ca.classes.BlockChain;
 public class Main {
 
     public static void main(String[] args) throws InterruptedException {
-	System.out.println("INIT PROGRAMMMMMMMMMMMMM");
+	System.out.println("INIT PROGRAMM");
     String ANSI_RED = "\u001B[31m";
 
     //create Block
